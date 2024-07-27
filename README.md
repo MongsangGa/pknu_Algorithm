@@ -63,6 +63,6 @@ ex) 홍길동 / Python / N주차 / M 문제
          <td align="center"><a href="https://github.com/sungung1"><img src="https://avatars.githubusercontent.com/sungung1" width="100px;" alt=""/>         <br /><sub><b>sungung1</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
          <td align="center"><a href="https://github.com/ddny226"><img src="https://avatars.githubusercontent.com/ddny226" width="100px;" alt=""/>         <br /><sub><b>ddny226</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </tr><tr>         <td align="center"><a href="https://github.com/xSminJx"><img src="https://avatars.githubusercontent.com/xSminJx" width="100px;" alt=""/>         <br /><sub><b>xSminJx</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/sugh002"><img src="https://avatars.githubusercontent.com/sugh002" width="100px;" alt=""/>         <br /><sub><b>sugh002</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+         <td align="center"><a href="https://github.com/yeeunnnnn"><img src="https://avatars.githubusercontent.com/yeeunnnnn" width="100px;" alt=""/>         <br /><sub><b>yeeunnnnn</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
          
 </table><br />
