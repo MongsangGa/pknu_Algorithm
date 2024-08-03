@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class 트럭 {
+public class BOJ_13335 {
 
     private static int N;
     private static int MAX_LENGTH;
