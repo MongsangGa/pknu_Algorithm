@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class 랜선자르기 {
+class BOJ_1654 {
 
     private static int N;
     private static int[] lines;
