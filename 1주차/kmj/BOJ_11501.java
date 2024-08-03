@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class 주식 {
+class BOJ_11501 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
