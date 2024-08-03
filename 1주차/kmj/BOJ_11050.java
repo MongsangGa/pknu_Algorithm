@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class 이항_계수1 {
+public class BOJ_11050 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
