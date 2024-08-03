@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class 이항_계수2 {
+public class BOJ_11051 {
     public static final int MOD = 10007;
     static int[][] dp;
 
@@ -30,6 +30,6 @@ public class 이항_계수2 {
 
         // nCk = (n-1)C(k-1) + (n-1)C(k)
         return dp[n][k] = (binomialCoefficient(n - 1, k - 1)
-                + binomialCoefficient(n - 1, k)) % div;
+                + binomialCoefficient(n - 1, k)) % MOD;
     }
 }
