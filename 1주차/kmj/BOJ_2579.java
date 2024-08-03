@@ -1,7 +1,6 @@
-import java.util.*;
 import java.io.*;
 
-public class 계단_오르기 {
+public class BOJ_2579 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
