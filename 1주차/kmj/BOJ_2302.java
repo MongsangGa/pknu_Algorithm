@@ -1,7 +1,6 @@
-import java.util.*;
 import java.io.*;
 
-class 극장_좌석 {
+class BOJ_2302 {
 
     private static int dp[];
 
