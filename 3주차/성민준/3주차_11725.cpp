@@ -5,13 +5,12 @@ class node {
 public:
 	vector<int> edge;
 	int visit = 0;
-	int chon = -1;
+	int mom = 0;
 };
 
 void dfs(int k, vector<node>& v) {
 	stack<int> stc;
 	v[k].visit = 1;
-	v[k].chon = 0;
 	stc.push(k);
 
 	while (!stc.empty()) {
@@ -21,7 +20,7 @@ void dfs(int k, vector<node>& v) {
 		for (auto i : v[a].edge) {
 			if (v[i].visit == 0) {
 				v[i].visit = 1;
-				v[i].chon = v[a].chon + 1;
+				v[i].mom = a;
 				stc.push(i);
 			}
 		}
@@ -33,11 +32,11 @@ int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0), cout.tie(0);
 
-	int n, a, b, m;
-	cin >> n >> a >> b >> m;
+	int n;
+	cin >> n;
 	vector<node> v(n + 1);
 
-	for (int i = 0; i < m; i++) {
+	for (int i = 0; i < n - 1; i++) {
 		int a, b;
 		cin >> a >> b;
 
@@ -45,7 +44,9 @@ int main() {
 		v[b].edge.push_back(a);
 	}
 
-	dfs(a, v);
-	cout << v[b].chon;
+	dfs(1, v);
+	for (int i = 2; i <= n; i++) {
+		cout << v[i].mom << '\n';
+	}
 	return 0;
 }
