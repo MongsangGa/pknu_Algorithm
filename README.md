@@ -19,29 +19,29 @@
 
 ## 🌟 소스코드 이름 규칙
 
-- [주차 / 백준 번호].확장자
+- [플랫폼_번호].확장자
 - 소스 코드 내에 회고 내용을 작성하면 코드 리뷰에 도움이 됩니다 :)
 
 ```
-ex) N주차 / BOJ 1001.cpp
+ex) BOJ_1001.cpp
 ```
 <br/>
 
 ## 🌟 commit 규칙
 
-- commit 메세지: [백준 번호 / 티어(난이도) / 걸린시간]
+- commit 메세지: [백준 번호 / 티어(난이도) / 문제이름 / 걸린시간]
 
 ```
-ex) BOJ 1001 / 브론즈5 / 1분
+ex) BOJ 1001 / 브론즈5 / A+B / 1분
 ```
 <br/>
 
 ## 🌟 Pull Request 규칙
 
-- PR 제목: 이름 / 사용 언어 / 주차 / 푼 문제 수
+- PR 제목: A조 / 이름 / 사용 언어 / 주차 / 푼 문제 수
 
 ```
-ex) 홍길동 / Python / N주차 / M 문제
+ex) 1조 / 홍길동 / Python / N주차 / M 문제
 ```
 <br/>
 
@@ -55,17 +55,18 @@ ex) 홍길동 / Python / N주차 / M 문제
 
 
 ## 🌟 참여자
-<table><tr>         <td align="center"><a href="https://github.com/MongsangGa"><img src="https://avatars.githubusercontent.com/MongsangGa" width="100px;" alt=""/>         <br /><sub><b>MongsangGa</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/zinovy124"><img src="https://avatars.githubusercontent.com/zinovy124" width="100px;" alt=""/>         <br /><sub><b>zinovy124</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/hallow0312"><img src="https://avatars.githubusercontent.com/hallow0312" width="100px;" alt=""/>         <br /><sub><b>hallow0312</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+<table><tr>         <td align="center"><a href="https://github.com/MongsangGa"><img src="https://avatars.githubusercontent.com/MongsangGa" width="100px;" alt=""/>         <br /><sub><b>MongsangGa</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/></sub></a><br /></td>
+         <td align="center"><a href="https://github.com/zinovy124"><img src="https://avatars.githubusercontent.com/zinovy124" width="100px;" alt=""/>         <br /><sub><b>zinovy124</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/29"/></sub></a><br /></td><!-- 7/24 -->
+         <td align="center"><a href="https://github.com/hallow0312"><img src="https://avatars.githubusercontent.com/hallow0312" width="100px;" alt=""/>         <br /><sub><b>hallow0312</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/91"/></sub></a><br /></td><!-- 22/24 -->
          <td align="center"><a href="https://github.com/seobeeeee1001"><img src="https://avatars.githubusercontent.com/seobeeeee1001" width="100px;" alt=""/>         <br /><sub><b>seobeeeee1001</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/mjj111"><img src="https://avatars.githubusercontent.com/mjj111" width="100px;" alt=""/>         <br /><sub><b>mjj111</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+         <td align="center"><a href="https://github.com/mjj111"><img src="https://avatars.githubusercontent.com/mjj111" width="100px;" alt=""/>         <br /><sub><b>mjj111</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/66"/></sub></a><br /></td><!-- 16/24 -->
          <td align="center"><a href="https://github.com/sungung1"><img src="https://avatars.githubusercontent.com/sungung1" width="100px;" alt=""/>         <br /><sub><b>sungung1</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
          <td align="center"><a href="https://github.com/ddny226"><img src="https://avatars.githubusercontent.com/ddny226" width="100px;" alt=""/>         <br /><sub><b>ddny226</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-</tr><tr>         <td align="center"><a href="https://github.com/xSminJx"><img src="https://avatars.githubusercontent.com/xSminJx" width="100px;" alt=""/>         <br /><sub><b>xSminJx</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/yeeunnnnn"><img src="https://avatars.githubusercontent.com/yeeunnnnn" width="100px;" alt=""/>         <br /><sub><b>yeeunnnnn</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/Jeong-Uk-Hyeon"><img src="https://avatars.githubusercontent.com/Jeong-Uk-Hyeon" width="100px;" alt=""/>         <br /><sub><b>Jeong-Uk-Hyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/blrlk"><img src="https://avatars.githubusercontent.com/blrlk" width="100px;" alt=""/>         <br /><sub><b>blrlk</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/dbwnsgur"><img src="https://avatars.githubusercontent.com/dbwnsgur" width="100px;" alt=""/>         <br /><sub><b>dbwnsgur</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>         
-         <td align="center"><a href="https://github.com/khjun226"><img src="https://avatars.githubusercontent.com/khjun226" width="100px;" alt=""/>         <br /><sub><b>khjun226</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>   
+</tr><tr>         <td align="center"><a href="https://github.com/xSminJx"><img src="https://avatars.githubusercontent.com/xSminJx" width="100px;" alt=""/>         <br /><sub><b>xSminJx</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/></sub></a><br /></td><!-- 24/24 -->
+         <td align="center"><a href="https://github.com/yeeunnnnn"><img src="https://avatars.githubusercontent.com/yeeunnnnn" width="100px;" alt=""/>         <br /><sub><b>yeeunnnnn</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/46"/></sub></a><br /></td> <!-- 7/15 -->
+         <td align="center"><a href="https://github.com/Jeong-Uk-Hyeon"><img src="https://avatars.githubusercontent.com/Jeong-Uk-Hyeon" width="100px;" alt=""/>         <br /><sub><b>Jeong-Uk-Hyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"/></sub></a><br /></td><!-- 6/15 -->
+         <td align="center"><a href="https://github.com/blrlk"><img src="https://avatars.githubusercontent.com/blrlk" width="100px;" alt=""/>         <br /><sub><b>blrlk</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/39"/></sub></a><br /></td><!-- 9/23 -->
+         <td align="center"><a href="https://github.com/dbwnsgur"><img src="https://avatars.githubusercontent.com/dbwnsgur" width="100px;" alt=""/>         <br /><sub><b>dbwnsgur</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/78"/></sub></a><br /></td><!-- 18/23 -->
+         <td align="center"><a href="https://github.com/khjun226"><img src="https://avatars.githubusercontent.com/khjun226" width="100px;" alt=""/>         <br /><sub><b>khjun226</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/39"/></sub></a><br /></td><!-- 9/23 -->
+        <td align="center"><a href="https://github.com/gyubhin"><img src="https://avatars.githubusercontent.com/gyubhin" width="100px;" alt=""/>         <br /><sub><b>gyubhin</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/43"/></sub></a><br /></td><!-- 10/23 -->
 </table><br />
